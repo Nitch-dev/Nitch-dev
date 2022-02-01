@@ -41,3 +41,6 @@ https://github.com/nitch-dev
 
 <br>⚙ *Tools:*<br>
 *IDE*: `Visual Studio Code`<br>
+
+*Credits*
+Evara: https://github.com/iamEvara
