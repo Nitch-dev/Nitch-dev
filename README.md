@@ -8,10 +8,6 @@
 #### >_ I use arch btw <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/undefined/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-duo-tal-revivo.png"/>
 
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=719FB0&lines=Github+stats%3A)
-
-<table width="110%" align="center">
-  <tr>
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=719FB0&lines=Favourite+Languages:)
 
 <p align="left">
