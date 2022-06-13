@@ -1,46 +1,41 @@
-:wave: Hello
+<a href="#"><img width="100%" height="auto" src="https://ibb.co/cXf2D2V" height="175px"/></a>
 
-I am *Nitch*, a *Web Scrapper | Web Automator | Web Developer*
-<br> <br>
+ 
 
-👩‍💻 ** My Experiences:**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!)
 
-🌐  *Website Development(1Month Experience):*
-`HTML`
-`CSS`
-`JavaScript`
-<br> <br>
+## >_ I am a linux user and I love ricing my system a lot!
+#### >_ I use arch btw <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/undefined/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-duo-tal-revivo.png"/>
 
-🐍 *Python(2y experience):*
 
-`Scraping(bs4,selenium)`
-`Backend Development(Sqlite3)`
-`Tkinter`
-`Flask`
-`and others...`
-<br> <br>
-🗝 *Databases:*
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=719FB0&lines=Github+stats%3A)
 
-`SQLite`
-<br> <br>
-👨‍🏫 *Languages:*
+<table width="110%" align="center">
+  <tr>
+    <td>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=legendlife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=354D62" />
+ </td>
+ <td> <img height="200 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact&langs_count=100&theme=react&hide_border=true&bg_color=354D62"/> </td>
+  </tr>
+ </table>
 
-`English:` Average Level
+<table witdth="100%" align="center">
+  <tr>
+  <td> <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=legendlife&bg_color=354D62&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ </td>
+  </tr>
+<table>
 
-`Urdu:` Native Language
-<br> <br>
-😺 *GitHub(1y Experience)*
-https://github.com/nitch-dev
-<br> <br>
-📂 *Projects:*
-*Check My Public Repos and the below*
-<br> <br>
-💻 *My Setup:*
-<br>
-🐧 `Laptop` ~ OS: *Linux* ~ <br>
-<br>
-<br>⚙ *Tools:*<br>
-*IDE*: `Visual Studio Code`<br>
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=719FB0&lines=Favourite+Languages:)
 
-*Credits*
-Evara: https://github.com/iamEvara
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-python-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-php-computer-science-flaticons-lineal-color-flat-icons.png"/> </a>
+
+</p>
+
+## Visit my [webpage](https://www.legendlife.github.io) <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/undefined/external-clover-leaf-saint-patrick-flatarticons-blue-flatarticons-1.png"/>
