@@ -1,12 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/sJxsysz/wallhaven-x8ye3z-1600x900.png" height="175px"/></a>
-
- 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!)
-
 ## >_ Living In Void ! Learning Some Low Level Stuff
-#### >_ I use arch btw <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/undefined/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-duo-tal-revivo.png"/>
-
 
 ## ![Typing SVG](https://cdn.discordapp.com/attachments/784445189996412959/1000804785953447956/unknown.png)
 
