@@ -10,26 +10,24 @@
 
 ## What I know:
 * I Have a Taste of every Majour Domain (Except ML and AI) Dont ask me why!
+* I have Done Freelancing As a Data Scrapper and Web Automater
 
 ## Languages I know and Love:
 
 `Python`
 `JavaScript`
 `Html & CSS`
-`Assembly (Learning)`
+
 
 ## Tech Stack I wanna learn:
 
 * C
-* React or Vue (if i went to FrontEnd)
-* Kubernetes
-* Terraform
-* AWS
+* Operating System
 
-## Which Domain I Took Serious:
+## Currently Learing:
 
-* `Web Automation & Web Scrapping`
-* `Devops (I was learning but Skipped in between cuz i wanted to dig deep (low level stuff uk!))`
+`Assembly (Learning)`
+`Reading Intel Manual`
 
 
 
