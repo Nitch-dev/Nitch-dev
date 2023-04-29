@@ -23,11 +23,13 @@
 
 * C
 * Operating System
+* BlockChain Technology
 
 ## Currently Learing:
 
 `Assembly (Learning)`
 `Reading Intel Manual`
+`OOPS in Python`
 
 
 
