@@ -17,19 +17,19 @@
 `Python`
 `JavaScript`
 `Html & CSS`
+`Assembly Langauge X86 & 32`
 
 
 ## Tech Stack I wanna learn:
 
 * C
 * Operating System
-* BlockChain Technology
+* DSA
+* CLoud 
 
 ## Currently Learing:
-
-`Assembly (Learning)`
 `Reading Intel Manual`
-`OOPS in Python`
+`C`
 
 
 
