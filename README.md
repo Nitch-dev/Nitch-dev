@@ -1,4 +1,4 @@
-## >_ Tinker With Hardware.
+## >_ Tinkering With Hardware.
 
 ## About Me:
 * I love to learn new Stuff
