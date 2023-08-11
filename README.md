@@ -1,4 +1,7 @@
 ## >_ Tinkering With Hardware.
+![image](https://github.com/Nitch-dev/Nitch-dev/assets/96729153/f9ffb999-bfbf-4246-b0de-f9e4f509540b)
+
+
 
 ## About Me:
 * I love to learn new Stuff
@@ -23,7 +26,6 @@
 
 ## Tech Stack I wanna learn:
 
-* C/C++
 * Operating Systems
 * DSA
 * CLoud
