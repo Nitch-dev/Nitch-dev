@@ -1,5 +1,5 @@
 ## >_ Learning Electronics
-![image](https://github.com/Nitch-dev/Nitch-dev/assets/96729153/f9ffb999-bfbf-4246-b0de-f9e4f509540b)
+![image](https://cdn.discordapp.com/attachments/1140963759410651257/1246164066863419462/image.png?ex=665b643a&is=665a12ba&hm=b4c1ff1e0ccf54228625d40ecccddcb4cc0ada3679f002a8793b3bc3337a0e5f&)
 
 
 
